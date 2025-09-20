@@ -1,4 +1,5 @@
 ---
+sidebar_position: 1
 ---
 # RISC-V全志D1sCVBS套件
 
