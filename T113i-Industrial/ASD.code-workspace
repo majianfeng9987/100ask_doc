@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "ASD",
+			"path": "../../../PLATFORMIO_ESP32/ASD"
+		},
+		{
+			"name": "STM32_PLATFORMIO",
+			"path": "../../../../Documents/PlatformIO/Projects/STM32_PLATFORMIO"
+		}
+	],
+	"settings": {}
+}
